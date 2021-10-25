@@ -1,0 +1,31 @@
+.menu{
+    background-color:gold;
+}
+.menu ul li{
+    margin-left: 50px;
+    font-weight: bold;
+}
+.menu .navbar-brand{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+}
+.menu .navbar-brand:hover{
+    text-decoration: none;
+}
+section img{
+    margin-top:30px;
+}
+section h4{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top:20px;
+}
+section h3{
+    margin-top:50px;
+    margin-bottom:50px;
+}
+section{
+    margin-bottom:50px;
+}
